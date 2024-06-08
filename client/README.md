@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # To run the weather application locally, follow these steps:
  1.Clone the Repository:
- `git clone <repository-url>`
+ `git clone <(https://github.com/vikeshub/Weather-App.git)>`
 
  2.Navigate to the Project Directory:
  `cd weather-app`
